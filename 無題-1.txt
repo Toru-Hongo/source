@@ -3,3 +3,4 @@
 sorekara
 
 またしても
+DBF試験開始 variable_DEM.dbf デマンド用
